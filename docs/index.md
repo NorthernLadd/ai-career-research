@@ -1,5 +1,7 @@
 # Careers in AI technology
 
+[Explore 19 AI job postings in New York and New Jersey](./ny-nj-jobs), from student internships to senior engineering roles. Compare employer requirements, day-to-day work, and local offices.
+
 One team teaches a model a task, another measures where it fails, and a third makes it fast enough for people to use. Which part would you want to work on?
 
 | If you enjoy… | Explore this career | A question you might answer |

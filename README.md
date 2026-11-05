@@ -5,6 +5,7 @@
 Explore emerging AI job titles, the work behind them, and possible routes into the field. The guide pairs employer examples with U.S. labor-market evidence and small projects you can try.
 
 - [Career profiles](docs/roles.md)
+- [New York and New Jersey job research by career stage](docs/ny-nj-jobs.md)
 - [Growth evidence and sources](docs/outlook.md)
 
 ## Run locally

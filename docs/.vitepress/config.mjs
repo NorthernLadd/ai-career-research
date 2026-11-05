@@ -6,6 +6,7 @@ export default defineConfig({
   base: '/ai-career-research/',
   themeConfig: {
     nav: [
+      { text: 'NY & NJ jobs', link: '/ny-nj-jobs' },
       { text: 'Career profiles', link: '/roles' },
       { text: 'Growth evidence', link: '/outlook' }
     ],
