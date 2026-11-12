@@ -1,5 +1,7 @@
 # Careers in AI technology
 
+[Compare forward deployed engineering internships and full-time roles](./fde/), including employer requirements and skills, reviewed November 12, 2026.
+
 [Explore 19 AI job postings in New York and New Jersey](./ny-nj-jobs), from student internships to senior engineering roles. Compare employer requirements, day-to-day work, and local offices.
 
 One team teaches a model a task, another measures where it fails, and a third makes it fast enough for people to use. Which part would you want to work on?
