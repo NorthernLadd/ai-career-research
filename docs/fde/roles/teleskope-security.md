@@ -17,7 +17,7 @@ Teleskope · Experienced full-time
 
 ## Work and responsibilities
 
-Deploy and adapt a data-security platform for enterprise customers adopting AI. Support pilots and ongoing accounts, fix customer-specific problems, and develop integrations and product features. The role also produces documentation and brings customer needs into product planning.
+Deploy a data-security platform for enterprise customers adopting AI. Support pilots and ongoing accounts, fix issues, and develop integrations and features.
 
 - Reproduce bugs, write fixes and tests, or document remediation.
 - Build scripts, custom integrations, reports, and product enhancements.
@@ -38,9 +38,9 @@ Deploy and adapt a data-security platform for enterprise customers adopting AI. 
 
 ## Fit and source
 
-A security-platform delivery role. The live page’s three-year requirement and compensation differ from older search snippets.
+Live requirements supersede older search snippets.
 
 This profile paraphrases the employer’s description. The source contains the complete job advertisement, application, benefits, and terms. Reviewed in Chrome on November 12, 2026. [Employer description and application](https://jobs.ashbyhq.com/teleskope/278bce22-653b-41f1-aaeb-2c2f7c7f4092)
 
-[Compare FDE roles](../) · [Review shared skills](../skills) · [Research method](../sources)
+[Compare FDE roles](../) · [Review shared skills](../skills) · [Explain technical terms](../skills#terms) · [Research method](../sources)
 

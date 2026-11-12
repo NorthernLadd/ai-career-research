@@ -42,5 +42,5 @@ The strongest match here for someone who enjoys model performance and GPU infras
 
 This profile paraphrases the employer’s description. The source contains the complete job advertisement, application, benefits, and terms. Reviewed in Chrome on November 12, 2026. [Employer description and application](https://jobs.ashbyhq.com/modal/9fadb51f-ce11-41b1-84d5-470e66cc8ee9/)
 
-[Compare FDE roles](../) · [Review shared skills](../skills) · [Research method](../sources)
+[Compare FDE roles](../) · [Review shared skills](../skills) · [Explain technical terms](../skills#terms) · [Research method](../sources)
 

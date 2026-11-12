@@ -16,7 +16,7 @@ export default defineConfig({
       '/fde/': [
         { text: 'Forward deployed engineering', items: [
           { text: 'Compare roles', link: '/fde/' },
-          { text: 'Skills', link: '/fde/skills' },
+          { text: 'Skills and terms', link: '/fde/skills' },
           { text: 'Sources and method', link: '/fde/sources' }
         ] },
         { text: 'Internships', collapsed: true, items: [

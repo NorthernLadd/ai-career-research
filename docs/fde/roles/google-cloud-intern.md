@@ -44,5 +44,5 @@ The stated minimum qualifications already include production AI and retrieval ex
 
 This profile paraphrases the employer’s description. The source contains the complete job advertisement, application, benefits, and terms. Reviewed in Chrome on November 12, 2026. [Employer description and application](https://www.google.com/about/careers/applications/jobs/results/75665705386549958-forward-deployed-engineering-intern-bsms-summer-2027)
 
-[Compare FDE roles](../) · [Review shared skills](../skills) · [Research method](../sources)
+[Compare FDE roles](../) · [Review shared skills](../skills) · [Explain technical terms](../skills#terms) · [Research method](../sources)
 

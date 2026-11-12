@@ -41,5 +41,5 @@ A concrete path for applicants interested in internal systems, business process 
 
 This profile paraphrases the employer’s description. The source contains the complete job advertisement, application, benefits, and terms. Reviewed in Chrome on November 12, 2026. [Employer description and application](https://www.coinbase.com/careers/positions/8175510)
 
-[Compare FDE roles](../) · [Review shared skills](../skills) · [Research method](../sources)
+[Compare FDE roles](../) · [Review shared skills](../skills) · [Explain technical terms](../skills#terms) · [Research method](../sources)
 

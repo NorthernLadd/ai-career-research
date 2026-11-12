@@ -12,7 +12,7 @@ Each employer link in a profile is the source for that profile. The shared skill
 
 ## Coverage and limits
 
-The sample includes four internships, two explicitly graduate roles, and six experienced roles across seven employers. New York dominates the sample. Citi supplies a Jersey City example with uncertain availability. The sample supports comparison of roles and requirements. Estimating growth or the size of the local FDE labor market requires observations over time.
+The sample includes four internships, two explicitly graduate roles, and six experienced roles across eight employers. New York dominates the sample. Citi supplies a Jersey City example with uncertain availability. The sample supports comparison of roles and requirements. Estimating growth or the size of the local FDE labor market requires observations over time.
 
 Pay is recorded using the employer’s units. Monthly and hourly internship rates require hours and duration to estimate total earnings. Google’s displayed pay range has an unclear period. Equity, bonuses, and benefits vary by offer.
 

@@ -1,0 +1,14 @@
+.vp-doc .fde-comparison table {
+  display: table;
+  width: 100%;
+  table-layout: fixed;
+}
+
+.vp-doc .fde-comparison th:first-child {
+  width: 34%;
+}
+
+.vp-doc .fde-comparison td,
+.vp-doc .fde-comparison th {
+  overflow-wrap: anywhere;
+}

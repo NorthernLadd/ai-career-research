@@ -17,7 +17,7 @@ Citi · Director full-time
 
 ## Work and responsibilities
 
-Lead Citi Payment Express engineering and market deployments while remaining involved in architecture and code. The scope includes AI agents, APIs, platform reliability, migrations, team development, and communication with senior stakeholders.
+Lead Citi Payment Express market deployments, architecture, AI integration, and engineering teams.
 
 - Own market rollout strategy, architecture, and delivery.
 - Develop agent workflows and services, coordinate migrations, and operate cloud platforms.
@@ -39,9 +39,9 @@ Lead Citi Payment Express engineering and market deployments while remaining inv
 
 ## Fit and source
 
-A New Jersey leadership example. Its contradictory dates limit confidence that recruiting remains active.
+Confirm recruiting status before applying.
 
 This profile paraphrases the employer’s description. The source contains the complete job advertisement, application, benefits, and terms. Reviewed in Chrome on November 12, 2026. [Employer description and application](https://jobs.citi.com/job/jersey-city/forward-deployed-engineer-director/287/102161068528)
 
-[Compare FDE roles](../) · [Review shared skills](../skills) · [Research method](../sources)
+[Compare FDE roles](../) · [Review shared skills](../skills) · [Explain technical terms](../skills#terms) · [Research method](../sources)
 

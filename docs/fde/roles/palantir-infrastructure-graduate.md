@@ -43,5 +43,5 @@ A systems and operations route into forward deployment. On-call duties and clear
 
 This profile paraphrases the employer’s description. The source contains the complete job advertisement, application, benefits, and terms. Reviewed in Chrome on November 12, 2026. [Employer description and application](https://jobs.lever.co/palantir/91117724-9389-48dc-912f-98e48d4d45d8)
 
-[Compare FDE roles](../) · [Review shared skills](../skills) · [Research method](../sources)
+[Compare FDE roles](../) · [Review shared skills](../skills) · [Explain technical terms](../skills#terms) · [Research method](../sources)
 

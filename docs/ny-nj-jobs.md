@@ -49,6 +49,8 @@ Spend ten weeks on an engineering project at a trading firm, with a mentor and t
 
 ### Forward Deployed Software Engineer, New Grad – Warp Speed
 
+For a current comparison of graduate FDE options and detailed skill requirements, see the [November 12 FDE research](./fde/#graduate-full-time). This Warp Speed summary retains its November 5 review date.
+
 **Palantir · New York City, NY**
 
 Work with manufacturers on the factory floor, translate an operational problem into software, and deploy it alongside the people who will use it. Customer interaction and data integration are central to this version of an FDE.
@@ -117,6 +119,8 @@ Keep an investment firm’s internal AI agent platform available. Monitor the se
 
 ### Forward Deployed Software Engineer – NYC
 
+[Expanded profile and skills, reviewed November 12](./fde/roles/openai-software).
+
 **OpenAI · New York City, NY**
 
 Code alongside customer engineers to deploy applications using model APIs. Then turn what worked for one customer into software other deployment teams can reuse.
@@ -124,6 +128,8 @@ Code alongside customer engineers to deploy applications using model APIs. Then 
 **Who it fits.** 7+ years of professional full-stack experience, excluding internships. Three office days per week and up to 50% travel. [OpenAI posting](https://openai.com/careers/forward-deployed-software-engineer-nyc-new-york-city/)
 
 ### Forward Deployed Engineer (SDEV)
+
+[Expanded profile and skills, reviewed November 12](./fde/roles/pagerduty-sre).
 
 **PagerDuty · NYC-area remote, NY**
 

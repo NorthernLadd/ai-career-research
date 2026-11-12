@@ -1,35 +1,45 @@
 # Forward deployed engineering
 
-Compare 12 employer postings with New York or New Jersey locations, reviewed November 12, 2026. Four are internships, two explicitly target graduates, and six describe experienced engineering or leadership work.
+12 profiles · 8 employers · New York and New Jersey · Reviewed November 12, 2026
 
-Forward deployed engineers work close to the people using a system. Across these postings, the work includes defining a customer problem, building integrations or applications, deploying them, and incorporating lessons into a product. The customer can be an external company or an internal team.
+[Internships](#internships) · [Graduate roles](#graduate-full-time) · [Experienced roles](#experienced-full-time) · [Skills and terms](./skills)
 
-Choose a profile below for responsibilities, required skills, preferences, pay, and working arrangements. Use the [skills guide](./skills) to compare technical expectations and the [source notes](./sources) to understand posting status.
+FDEs build and deploy software alongside customer teams. Select a role for its responsibilities, required and preferred skills, pay, and original employer description. Availability was checked on the review date. [Source notes](./sources)
+
+<div class="fde-comparison">
 
 ## Internships
 
-| Role | Entry point | Location | Status |
-| --- | --- | --- | --- |
-| [Palantir commercial internship](./roles/palantir-commercial-intern) | December 2027 or spring 2028 graduation | New York, NY | Listed November 12 |
-| [Palantir year-long internship](./roles/palantir-year-intern) | College students across all years | New York, NY | Listed November 12 |
-| [Coinbase HR technology internship](./roles/coinbase-hr-intern) | Technical degree in progress or equivalent hands-on experience | New York, NY | Listed November 12 |
-| [Google Cloud FDE internship](./roles/google-cloud-intern) | BS/MS in progress; intended for the penultimate academic year | New York, NY is a location option alongside Sunnyvale, CA and Reston, VA | Listed November 12 |
+All four include a New York City location. Google lets applicants indicate an office preference.
+
+| Role | Eligibility and commitment |
+| --- | --- |
+| [Palantir commercial](./roles/palantir-commercial-intern) | December 2027 or spring 2028 graduates. On-site, 25–50% travel. Duration unstated. |
+| [Palantir year-long](./roles/palantir-year-intern) | College students across years. One year, on-site. Requires hands-on AI work. |
+| [Coinbase HR technology](./roles/coinbase-hr-intern) | Technical study or equivalent experience. 12 weeks, summer 2027. Hybrid NYC. |
+| [Google Cloud](./roles/google-cloud-intern) | BS/MS students, intended for the year before graduation. Production AI and retrieval experience. 12-week availability preferred. **Apply before November 20.** |
 
 ## Graduate full-time
 
-| Role | Entry point | Location | Status |
-| --- | --- | --- | --- |
-| [Palantir commercial graduate](./roles/palantir-commercial-graduate) | December 2026 or spring 2027 graduation | New York, NY | Listed November 12 |
-| [Palantir infrastructure graduate](./roles/palantir-infrastructure-graduate) | Graduate title; strong coding and clearance eligibility | New York, NY | Listed November 12 |
+Both roles list New York City and hybrid work.
+
+| Role | Eligibility and commitment |
+| --- | --- |
+| [Palantir commercial](./roles/palantir-commercial-graduate) | December 2026 or spring 2027 graduates. Programming proficiency. 25–50% travel. |
+| [Palantir infrastructure](./roles/palantir-infrastructure-graduate) | Graduate title, graduation dates unstated. Strong coding. Clearance eligibility and on-call work required. |
 
 ## Experienced full-time
 
-| Role | Entry point | Location | Status |
-| --- | --- | --- | --- |
-| [Palantir applied AI](./roles/palantir-ai) | Prior LLM delivery; years unspecified | New York, NY | Listed November 12 |
-| [Teleskope data security](./roles/teleskope-security) | 3+ years supporting enterprise customers technically | New York, NY | Listed November 12 |
-| [Modal ML infrastructure](./roles/modal-ml) | 2+ years professional ML engineering | New York, NY | Listed November 12 |
-| [OpenAI software deployment](./roles/openai-software) | 7+ years professional full-stack engineering | New York City, NY | Listed November 12 |
-| [PagerDuty SRE agent](./roles/pagerduty-sre) | 8+ years shipping production software | NYC-area remote; application asks about residence within 50 miles of NYC | Listed November 12 |
-| [Citi payments director](./roles/citi-director) | 15+ years in senior engineering leadership, management, or architecture | Jersey City, NJ | Uncertain dates |
+NYC is a listed location for the first five roles. Citi lists Jersey City, NJ.
+
+| Role | Experience and commitment |
+| --- | --- |
+| [Palantir applied AI](./roles/palantir-ai) | Prior LLM delivery, years unstated. Hybrid, up to 25% travel. |
+| [Teleskope security](./roles/teleskope-security) | 3+ years of technical enterprise customer work. Hybrid NYC. |
+| [Modal ML infrastructure](./roles/modal-ml) | 2+ years professional ML engineering. In person. |
+| [OpenAI software](./roles/openai-software) | 7+ years full-stack engineering, excluding internships. Three office days, up to 50% travel. |
+| [PagerDuty SRE agent](./roles/pagerduty-sre) | Staff level, 8+ years production software. NYC-area remote, 25–50% travel. Application asks about residence within 50 miles. |
+| [Citi payments director](./roles/citi-director) | 15+ years relevant leadership. Hybrid Jersey City. **Availability uncertain** due to conflicting posting and closing dates. |
+
+</div>
 

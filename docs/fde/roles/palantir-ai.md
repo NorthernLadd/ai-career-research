@@ -41,5 +41,5 @@ Experience is defined through delivered LLM systems. The employer gives no numer
 
 This profile paraphrases the employer’s description. The source contains the complete job advertisement, application, benefits, and terms. Reviewed in Chrome on November 12, 2026. [Employer description and application](https://jobs.lever.co/palantir/636fc05c-d348-4a06-be51-597cb9e07488)
 
-[Compare FDE roles](../) · [Review shared skills](../skills) · [Research method](../sources)
+[Compare FDE roles](../) · [Review shared skills](../skills) · [Explain technical terms](../skills#terms) · [Research method](../sources)
 

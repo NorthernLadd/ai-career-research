@@ -41,5 +41,5 @@ Freshmen through seniors are explicitly welcomed. The one-year duration is a sub
 
 This profile paraphrases the employer’s description. The source contains the complete job advertisement, application, benefits, and terms. Reviewed in Chrome on November 12, 2026. [Employer description and application](https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d)
 
-[Compare FDE roles](../) · [Review shared skills](../skills) · [Research method](../sources)
+[Compare FDE roles](../) · [Review shared skills](../skills) · [Explain technical terms](../skills#terms) · [Research method](../sources)
 

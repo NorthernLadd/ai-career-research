@@ -34,3 +34,27 @@ The following are suggested portfolio exercises derived from the work. They are 
 | Systems or operations | Deploy a small service, add monitoring, simulate a failure, and document recovery and permissions |
 | ML performance | Compare two serving configurations with the same workload and report response time, throughput, cost assumptions, and quality |
 
+## Terms used in the profiles {#terms}
+
+| Term | Meaning in this research |
+| --- | --- |
+| LLM | Large language model, used to generate or interpret language and other content |
+| RAG | Retrieval-augmented generation, where an application retrieves relevant material to give a model context |
+| Vector database | Stores representations used to retrieve items by similarity |
+| Agent | An application that uses a model to choose steps and call tools toward a goal |
+| MCP | Model Context Protocol, a standard way to connect AI applications with tools and data |
+| ADK | Google Agent Development Kit, used to build agent applications |
+| Evaluation | Testing outputs or actions against defined examples, requirements, or measures |
+| Guardrail | A check or restriction on what a system may produce or do |
+| Observability | Logs, metrics, and traces used to understand a running system |
+| SRE | Site reliability engineering, applying software engineering to service operation and reliability |
+| CI/CD | Automated integration, testing, and delivery or deployment of software changes |
+| GitOps | Managing deployed infrastructure or application state through version-controlled configuration |
+| Infrastructure as code | Defining infrastructure in files that tools can apply and review |
+| Kubernetes | A system for deploying and managing applications packaged in containers |
+| Inference | Running a trained model to produce an output |
+| Throughput and latency | How much work completes per unit of time and how long one request takes |
+| DORA metrics | Software delivery measures such as deployment frequency, change lead time, failures, and recovery time |
+
+[Return to role comparison](./)
+
